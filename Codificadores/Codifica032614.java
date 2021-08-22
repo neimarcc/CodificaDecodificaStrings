@@ -21,7 +21,7 @@ public class Codifica032614 implements Codifica {
         }
         return codificada;
     }
-
+ 
     @Override
     public String decodifica(String str) {
         String decodificada = "";
